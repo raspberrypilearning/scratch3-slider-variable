@@ -1,59 +1,23 @@
-## Introduction
+Right-click (or on a tablet, tap and hold) on your `variable`{:class="block3variables"} on the Stage.
 
-Add project description here. What will learners be making? Broadly what skills will they be learning?
+Select **slider** in the menu. 
 
-### What you will make
+![Selecting 'slider' in the menu.](images/variable-slider.png)
 
---- no-print ---
-Add instructions for interacting with the embedded content here.
+**Tip:** You can double-click (or on a tablet, tap) on the `variable`{:class="block3variables"} displayed on the Stage and select **slider**.
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
+Right-click on the `variable`{:class="block3variables"} displayed on the Stage and select **change slider range**.
 
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
+![Selecting 'change slider range' in the menu.](images/slider-range.png)
 
---- collapse ---
----
-title: What you will need
----
-### Hardware
+To set the range, specify a minimum and maximum value.
 
-+ A computer or tablet capable of running Scratch 3
+For example, a minimum of `1` and a maximum of `10` work fairly well for how quickly a sprite spins.
 
-### Software
+![Changing the slider range to 1 to 10.](images/slider-values.png)
 
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
+The value range that is right for your variable depends on what you are using it for. Sometimes you will need to experiment a little to get it right, but remember that you can change it at any time.
 
-### Downloads
+Drag the slider to a convenient position on the Stage.
 
-+ Download the project [starter file](http://rpf.io/p/en/projectName-go){:target="_blank"} if working offline
-
---- /collapse ---
-
---- collapse ---
----
-title: What you will learn
----
-
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
-
---- /collapse ---
-
---- collapse ---
----
-title: Additional information for educators
----
-
-You can download the completed project [here](http://rpf.io/p/en/projectName-get){:target="_blank"}.
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
-
---- /collapse ---
+**Tip:** If you are using a computer with a keyboard, then you can use the arrow keys to change the value of a slider by `1`. First, click on the slider to select it, then use the <kbd>Left</kbd> arrow key to change the value by `-1` and the <kbd>Right</kbd> arrow key to change the value by `1`.
