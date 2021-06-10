@@ -6,7 +6,7 @@ Select **slider** in the menu.
 
 **Tip:** You can double-click (or on a tablet, tap) on the `variable`{:class="block3variables"} displayed on the Stage and select **slider**.
 
-Right-click on the `variable`{:class="block3variables"} displayed on the Stage and select **change slider range**.
+Right-click again on the `variable`{:class="block3variables"} displayed on the Stage and select **change slider range**.
 
 ![Selecting 'change slider range' in the menu.](images/slider-range.png)
 
