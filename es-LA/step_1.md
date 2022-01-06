@@ -1,23 +1,23 @@
-Right-click (or on a tablet, tap and hold) on your `variable`{:class="block3variables"} on the Stage.
+Haz clic derecho (o en una tableta, mantén presionado) en tu `variable`{:class="block3variables"} en el Escenario.
 
-Select **slider** in the menu.
+Selecciona **deslizador** en el menú.
 
-![Selecting 'slider' in the menu.](images/variable-slider.png)
+![Seleccionando 'deslizador' en el menú.](images/variable-slider.png)
 
-**Tip:** You can double-click (or on a tablet, tap) on the `variable`{:class="block3variables"} displayed on the Stage and select **slider**.
+**Sugerencia:** Puedes hacer doble clic (o en una tableta, tocar) en la `variable`{:class="block3variables"} que se muestra en el Escenario y seleccionar **deslizador**.
 
-Right-click again on the `variable`{:class="block3variables"} displayed on the Stage and select **change slider range**.
+Vuelve a hacer clic derecho en la `variable`{:class="block3variables"} que se muestra en el Escenario y selecciona **cambiar rango del deslizador**.
 
-![Selecting 'change slider range' in the menu.](images/slider-range.png)
+![Seleccionando 'cambiar rango del deslizador' en el menú.](images/slider-range.png)
 
-To set the range, specify a minimum and maximum value.
+Para fijar el rango, especifica un valor mínimo y un valor máximo.
 
-For example, a minimum of `1` and a maximum of `10` work fairly well for how quickly a sprite spins.
+Por ejemplo, un mínimo de `1` y un máximo de `10` funcionan bastante bien para determinar la velocidad con la que gira un objeto.
 
-![Changing the slider range to 1 to 10.](images/slider-values.png)
+![Cambiando el rango del deslizador de 1 a 10.](images/slider-values.png)
 
-The value range that is right for your variable depends on what you are using it for. Sometimes you will need to experiment a little to get it right, but remember that you can change it at any time.
+El rango de valores adecuado para tu variable depende de para qué la estés utilizando. A veces, necesitarás experimentar un poco para hacerlo bien, pero recuerda que puedes cambiarlo en cualquier momento.
 
-Drag the slider to a convenient position on the Stage.
+Arrastra el deslizador a una posición conveniente en el Escenario.
 
-**Tip:** If you are using a computer with a keyboard, then you can use the arrow keys to change the value of a slider by `1`. First, click on the slider to select it, then use the <kbd>Left</kbd> arrow key to change the value by `-1` and the <kbd>Right</kbd> arrow key to change the value by `1`.
+**Sugerencia:** Si estás utilizando una computadora con un teclado, puedes usar las flechas para cambiar el valor en el deslizador en `1`. Primero, haz clic en el deslizador para seleccionarlo, luego usa la flecha <kbd>Izquierda</kbd> para cambiar el valor por `-1` y la flecha <kbd>Derecha</kbd> para cambiar el valor por `1`.
