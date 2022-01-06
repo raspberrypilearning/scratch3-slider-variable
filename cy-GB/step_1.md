@@ -1,23 +1,23 @@
-Right-click (or on a tablet, tap and hold) on your `variable`{:class="block3variables"} on the Stage.
+De-glicia (neu pwyso a dal ar dabled) dy `newidyn`{:class="block3variables"} ar y Llwyfan.
 
-Select **slider** in the menu.
+Dewisa **llithrydd** yn y ddewislen.
 
-![Selecting 'slider' in the menu.](images/variable-slider.png)
+![Dewis 'llithrydd' yn y ddewislen.](images/variable-slider.png)
 
-**Tip:** You can double-click (or on a tablet, tap) on the `variable`{:class="block3variables"} displayed on the Stage and select **slider**.
+**Awgrym:** Galli di glicio ddwywaith (neu dapio ar dabled) ar y `newidyn`{:class="block3variables"} sy'n ymddangos ar y Llwyfan a dewis **llithryd**.
 
-Right-click again on the `variable`{:class="block3variables"} displayed on the Stage and select **change slider range**.
+De-glicia unwaith eto ar y `newidyn`{:class="block3variables"} sy'n ymddangos ar y Llwyfan a dewis **newid amrediad y llithrydd**.
 
-![Selecting 'change slider range' in the menu.](images/slider-range.png)
+![Dewis 'newid amrediad y llithrydd' yn y ddewislen.](images/slider-range.png)
 
-To set the range, specify a minimum and maximum value.
+I osod yr amrediad, dewisa isafswm ac uchafswm.
 
-For example, a minimum of `1` and a maximum of `10` work fairly well for how quickly a sprite spins.
+Er enghraifft, mae isafswm o `1` ac uchafswm o `10` yn gweithio'n eithaf da wrth droelli'r coflun.
 
-![Changing the slider range to 1 to 10.](images/slider-values.png)
+![Newid amrediad y llithrydd i rhwng 1 a 10.](images/slider-values.png)
 
-The value range that is right for your variable depends on what you are using it for. Sometimes you will need to experiment a little to get it right, but remember that you can change it at any time.
+Mae'r amrediad sydd orau ar gyfer dy newidyn yn dibynnu beth rwyt ti'n ei wneud ag ef. Weithiau bydd angen i ti arbrofi rhywfaint i gael yr amrediad yn gywir. Ond cofia, galli di ei newid ar unrhyw adeg.
 
-Drag the slider to a convenient position on the Stage.
+Llusga'r llithrydd i'r safle gorau ar y Llwyfan.
 
-**Tip:** If you are using a computer with a keyboard, then you can use the arrow keys to change the value of a slider by `1`. First, click on the slider to select it, then use the <kbd>Left</kbd> arrow key to change the value by `-1` and the <kbd>Right</kbd> arrow key to change the value by `1`.
+**Awgrym:** Os wyt ti'n defnyddio cyfrifiadur gyda bysellfwrdd, galli di ddefnyddio'r saethau i newid gwerth y llithrydd fesul `1`. Yn gyntaf, clicia ar y llithrydd i'w ddewis, wedyn defnyddio'r saeth <kbd>Chwith</kbd> i newid y gwerth fesul `-1` a'r saeth <kbd>Dde</kbd> i newid y gwerth fesul `1`.
