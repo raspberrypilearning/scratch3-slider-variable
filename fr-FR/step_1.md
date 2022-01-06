@@ -1,23 +1,23 @@
-Right-click (or on a tablet, tap and hold) on your `variable`{:class="block3variables"} on the Stage.
+Fais un clic droit (ou sur une tablette, appuies et maintiens) sur ta `variable`{:class="block3variables"} sur la scène.
 
-Select **slider** in the menu.
+Sélectionne **barre de défilement** dans le menu.
 
-![Selecting 'slider' in the menu.](images/variable-slider.png)
+![Sélection de « barre de défilement » dans le menu.](images/variable-slider.png)
 
-**Tip:** You can double-click (or on a tablet, tap) on the `variable`{:class="block3variables"} displayed on the Stage and select **slider**.
+**Astuce :** Tu peux double-cliquer (ou sur une tablette, taper) sur la `variable`{:class="block3variables"} affichée sur la Scène et sélectionner **barre de défilement**.
 
-Right-click again on the `variable`{:class="block3variables"} displayed on the Stage and select **change slider range**.
+Clique à nouveau avec le bouton droit sur la `variable`{:class="block3variables"} affichée sur la scène et sélectionne **modifier les valeurs de la barre de défilement**.
 
-![Selecting 'change slider range' in the menu.](images/slider-range.png)
+![Sélection de « modifier les valeurs de la barre de défilement » dans le menu.](images/slider-range.png)
 
-To set the range, specify a minimum and maximum value.
+Pour définir la plage, spécifie une valeur minimale et maximale.
 
-For example, a minimum of `1` and a maximum of `10` work fairly well for how quickly a sprite spins.
+Par exemple, un minimum de `1` et un maximum de `10` fonctionnent assez bien pour la vitesse à laquelle un sprite tourne.
 
-![Changing the slider range to 1 to 10.](images/slider-values.png)
+![Modifier les valeurs de la barre de défilement de 1 à 10.](images/slider-values.png)
 
-The value range that is right for your variable depends on what you are using it for. Sometimes you will need to experiment a little to get it right, but remember that you can change it at any time.
+La plage de valeurs qui convient à ta variable dépend de l'utilisation que tu en fais. Parfois, tu devras expérimenter un peu pour bien faire les choses, mais n'oublie pas que tu peux le modifier à tout moment.
 
-Drag the slider to a convenient position on the Stage.
+Fais glisser la barre de défilement vers une bonne position sur la scène.
 
-**Tip:** If you are using a computer with a keyboard, then you can use the arrow keys to change the value of a slider by `1`. First, click on the slider to select it, then use the <kbd>Left</kbd> arrow key to change the value by `-1` and the <kbd>Right</kbd> arrow key to change the value by `1`.
+**Astuce :** Si tu utilises un ordinateur avec un clavier, tu peux utiliser les touches fléchées pour modifier la valeur d'une barre de défilement de `1`. Tout d'abord, clique sur la barre de défilement pour la sélectionner, puis utilise la touche flèche <kbd>Gauche</kbd> pour modifier la valeur de `-1` et la touche flèche <kbd>Droite</kbd> pour modifier la valeur de `1`.
