@@ -1,23 +1,23 @@
-Right-click (or on a tablet, tap and hold) on your `variable`{:class="block3variables"} on the Stage.
+Klik met de rechtermuisknop (of tik op een tablet en houd vast) op jouw `variabele`{:class="block3variables"} in het speelveld.
 
-Select **slider** in the menu.
+Selecteer **schuifregelaar** in het menu.
 
-![Selecting 'slider' in the menu.](images/variable-slider.png)
+!['Schuifregelaar' selecteren in het menu.](images/variable-slider.png)
 
-**Tip:** You can double-click (or on a tablet, tap) on the `variable`{:class="block3variables"} displayed on the Stage and select **slider**.
+**Tip:** Je kunt dubbelklikken (of op een tablet tikken) op de `variabele`{:class="block3variables"} die in het speelveld wordt weergegeven en **schuifregelaar** selecteren.
 
-Right-click again on the `variable`{:class="block3variables"} displayed on the Stage and select **change slider range**.
+Klik nogmaals met de rechtermuisknop op de `variabele`{:class="block3variables"} in het speelveld en selecteer **verander schuifbereik**.
 
-![Selecting 'change slider range' in the menu.](images/slider-range.png)
+![Selecteer 'verander schuifbereik' in het menu.](images/slider-range.png)
 
-To set the range, specify a minimum and maximum value.
+Geef een minimum- en maximumwaarde op om het bereik in te stellen.
 
-For example, a minimum of `1` and a maximum of `10` work fairly well for how quickly a sprite spins.
+Een minimum van `1` en een maximum van `10` werkt bijvoorbeeld redelijk goed voor een snelheid waarmee een sprite draait.
 
-![Changing the slider range to 1 to 10.](images/slider-values.png)
+![Het schuifbereik wijzigen in 1 tot 10.](images/slider-values.png)
 
-The value range that is right for your variable depends on what you are using it for. Sometimes you will need to experiment a little to get it right, but remember that you can change it at any time.
+Het waardebereik dat geschikt is voor jouw variabele hangt af van waarvoor je het gebruikt. Soms moet je een beetje experimenteren om het goed te krijgen, maar onthoud dat je het op elk moment kunt wijzigen.
 
-Drag the slider to a convenient position on the Stage.
+Sleep de schuifregelaar naar een geschikte positie in het speelveld.
 
-**Tip:** If you are using a computer with a keyboard, then you can use the arrow keys to change the value of a slider by `1`. First, click on the slider to select it, then use the <kbd>Left</kbd> arrow key to change the value by `-1` and the <kbd>Right</kbd> arrow key to change the value by `1`.
+**Tip:** Als je een computer met een toetsenbord gebruikt, kun je de pijltoetsen gebruiken om de waarde van een schuifregelaar met `1` te wijzigen. Klik eerst op de schuifregelaar om deze te selecteren en gebruik vervolgens de <kbd>Linker</kbd> pijltoets om de waarde te wijzigen met `-1` en de <kbd>Rechter</kbd> pijltoets om de waarde te wijzigen met `1`.
