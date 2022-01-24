@@ -1,10 +1,10 @@
-Fais un clic droit (ou sur une tablette, appuies et maintiens) sur ta `variable`{:class="block3variables"} sur la scène.
+Right-click on your `variable`{:class="block3variables"} on the Stage.
 
 Sélectionne **barre de défilement** dans le menu.
 
 ![Sélection de « barre de défilement » dans le menu.](images/variable-slider.png)
 
-**Astuce :** Tu peux double-cliquer (ou sur une tablette, taper) sur la `variable`{:class="block3variables"} affichée sur la Scène et sélectionner **barre de défilement**.
+**Tip:** On a tablet, double tap on the `variable`{:class="block3variables"} on the Stage to change between the display options.
 
 Clique à nouveau avec le bouton droit sur la `variable`{:class="block3variables"} affichée sur la scène et sélectionne **modifier les valeurs de la barre de défilement**.
 
