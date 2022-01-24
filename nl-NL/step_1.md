@@ -1,10 +1,10 @@
-Klik met de rechtermuisknop (of tik op een tablet en houd vast) op jouw `variabele`{:class="block3variables"} in het speelveld.
+Right-click on your `variable`{:class="block3variables"} on the Stage.
 
 Selecteer **schuifregelaar** in het menu.
 
 !['Schuifregelaar' selecteren in het menu.](images/variable-slider.png)
 
-**Tip:** Je kunt dubbelklikken (of op een tablet tikken) op de `variabele`{:class="block3variables"} die in het speelveld wordt weergegeven en **schuifregelaar** selecteren.
+**Tip:** On a tablet, double tap on the `variable`{:class="block3variables"} on the Stage to change between the display options.
 
 Klik nogmaals met de rechtermuisknop op de `variabele`{:class="block3variables"} in het speelveld en selecteer **verander schuifbereik**.
 
