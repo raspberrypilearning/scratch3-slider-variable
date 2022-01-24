@@ -1,10 +1,10 @@
-Right-click (or on a tablet, tap and hold) on your `variable`{:class="block3variables"} on the Stage.
+Right-click on your `variable`{:class="block3variables"} on the Stage.
 
 Select **slider** in the menu.
 
 ![Selecting 'slider' in the menu.](images/variable-slider.png)
 
-**Tip:** You can double-click (or on a tablet, tap) on the `variable`{:class="block3variables"} displayed on the Stage and select **slider**.
+**Tip:** On a tablet, double tap on the `variable`{:class="block3variables"} on the Stage to change between the display options.
 
 Right-click again on the `variable`{:class="block3variables"} displayed on the Stage and select **change slider range**.
 
