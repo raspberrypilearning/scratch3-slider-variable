@@ -1,4 +1,4 @@
-Klik met de rechtermuisknop (of tik op een tablet en houd vast) op jouw `variabele`{:class="block3variables"} in het speelveld.
+Klik met de rechtermuisknop op jouw `variabele`{:class="block3variables"} in het speelveld.
 
 Selecteer **schuifregelaar** in het menu.
 
