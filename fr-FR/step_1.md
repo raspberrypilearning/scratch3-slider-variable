@@ -1,4 +1,4 @@
-Fais un clic droit (ou sur une tablette, appuies et maintiens) sur ta `variable`{:class="block3variables"} sur la scène.
+Fais un clic droit sur ta `variable`{:class="block3variables"} sur la scène.
 
 Sélectionne **barre de défilement** dans le menu.
 
