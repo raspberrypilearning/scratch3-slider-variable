@@ -1,10 +1,8 @@
-Right-click on your `variable`{:class="block3variables"} on the Stage.
+Haz clic derecho en tu `variable`{:class="block3variables"} en el Escenario.
 
 Selecciona **deslizador** en el menú.
 
 ![Seleccionando 'deslizador' en el menú.](images/variable-slider.png)
-
-**Tip:** On a tablet, double tap on the `variable`{:class="block3variables"} on the Stage to change between the display options.
 
 Vuelve a hacer clic derecho en la `variable`{:class="block3variables"} que se muestra en el Escenario y selecciona **cambiar rango del deslizador**.
 
