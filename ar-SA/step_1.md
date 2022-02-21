@@ -1,10 +1,10 @@
-Right-click on your `variable`{:class="block3variables"} on the Stage.
+انقر بزر الماوس الأيمن على `متغير`{: class = "block3variables"} الموجود على المنصة.
 
 اختر**المنزلقة** في القائمة.
 
 ![اختيار "المنزلقة" في القائمة.](images/variable-slider.png)
 
-**Tip:** On a tablet, double tap on the `variable`{:class="block3variables"} on the Stage to change between the display options.
+**نصيحة:** على الجهاز اللوحي، انقر مرتين على `متغير`{:class="block3variables"} على المنصة لتغير بين خيارات العرض.
 
 انقر بزر الماوس الأيمن مرة أخرى على `متغير`{:class="block3variables"} المعروض على المنصة وحدد **تغيير مجال المنزلقة**.
 
