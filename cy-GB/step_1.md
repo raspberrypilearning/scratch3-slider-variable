@@ -1,4 +1,4 @@
-De-glicia (neu pwyso a dal ar dabled) dy `newidyn`{:class="block3variables"} ar y Llwyfan.
+De-glicia dy `newidyn`{:class="block3variables"} ar y Llwyfan.
 
 Dewisa **llithrydd** yn y ddewislen.
 
