@@ -1,10 +1,10 @@
-Right-click on your `variable`{:class="block3variables"} on the Stage.
+De-glicia dy `newidyn`{:class="block3variables"} ar y Llwyfan.
 
 Dewisa **llithrydd** yn y ddewislen.
 
 ![Dewis 'llithrydd' yn y ddewislen.](images/variable-slider.png)
 
-**Tip:** On a tablet, double tap on the `variable`{:class="block3variables"} on the Stage to change between the display options.
+**Awgrym:** Galli di glicio ddwywaith (neu dapio ar dabled) ar y `newidyn`{:class="block3variables"} sy'n ymddangos ar y Llwyfan a dewis **llithryd**.
 
 De-glicia unwaith eto ar y `newidyn`{:class="block3variables"} sy'n ymddangos ar y Llwyfan a dewis **newid amrediad y llithrydd**.
 
