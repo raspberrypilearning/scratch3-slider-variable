@@ -4,6 +4,8 @@ Selecciona **deslizador** en el menú.
 
 ![Seleccionando 'deslizador' en el menú.](images/variable-slider.png)
 
+**Sugerencia:** En una tableta, toca dos veces la `variable`{:class="block3variables"} en el escenario para cambiar entre las opciones de visualización.
+
 Vuelve a hacer clic derecho en la `variable`{:class="block3variables"} que se muestra en el Escenario y selecciona **cambiar rango del deslizador**.
 
 ![Seleccionando 'cambiar rango del deslizador' en el menú.](images/slider-range.png)
