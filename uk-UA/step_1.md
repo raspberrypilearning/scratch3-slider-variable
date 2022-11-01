@@ -1,23 +1,23 @@
-Right-click on your `variable`{:class="block3variables"} on the Stage.
+Клацни правою кнопкою миші по своїй `змінній`{:class="block3variables"} на Сцені.
 
-Select **slider** in the menu.
+Вибери елемент **повзунок** в меню.
 
-![Selecting 'slider' in the menu.](images/variable-slider.png)
+![Вибір елемента «повзунок» в меню.](images/variable-slider.png)
 
-**Tip:** On a tablet, double tap on the `variable`{:class="block3variables"} on the Stage to change between the display options.
+**Порада:** на планшеті для переключення між варіантами відображення двічі натисни на `змінну`{:class="block3variables"}, яка знаходиться на Сцені.
 
-Right-click again on the `variable`{:class="block3variables"} displayed on the Stage and select **change slider range**.
+Ще раз клацни правою кнопкою миші на `змінну`{:class="block3variables"}, яка знаходиться на Сцені, та вибери**змінити діапазон повзунка**.
 
-![Selecting 'change slider range' in the menu.](images/slider-range.png)
+![Вибір елемента «змінити діапазон повзунка» в меню.](images/slider-range.png)
 
-To set the range, specify a minimum and maximum value.
+Для встановлення діапазону необхідно вказати мінімальне та максимальне значення.
 
-For example, a minimum of `1` and a maximum of `10` work fairly well for how quickly a sprite spins.
+Наприклад, мінімум `1` і максимум `10` досить добре підходять для швидкості обертання спрайту.
 
-![Changing the slider range to 1 to 10.](images/slider-values.png)
+![Зміна діапазону повзунка від 1 до 10.](images/slider-values.png)
 
-The value range that is right for your variable depends on what you are using it for. Sometimes you will need to experiment a little to get it right, but remember that you can change it at any time.
+Діапазон значень, які підходять для твоєї змінної, залежить від того, для чого ти її використовуєш. Іноді потрібно буде трохи поекспериментувати, щоб отримати потрібний результат, але пам'ятай, що ти можеш змінити все це в будь-який момент.
 
-Drag the slider to a convenient position on the Stage.
+Перетягни повзунок у зручне положення на Сцені.
 
-**Tip:** If you are using a computer with a keyboard, then you can use the arrow keys to change the value of a slider by `1`. First, click on the slider to select it, then use the <kbd>Left</kbd> arrow key to change the value by `-1` and the <kbd>Right</kbd> arrow key to change the value by `1`.
+**Порада:** якщо ти використовуєш комп'ютер з клавіатурою, то можеш за допомогою клавіш зі стрілками змінити значення повзунка на `1`. Спочатку клацни на повзунок, щоб вибрати його, а потім скористайся клавішею зі стрілкою <kbd>Ліворуч</kbd>, щоб змінити значення на `-1`, та клавішею зі стрілкою <kbd>Праворуч</kbd>, щоб змінити значення на `1`.
