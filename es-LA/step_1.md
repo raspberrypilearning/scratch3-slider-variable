@@ -4,7 +4,7 @@ Selecciona **deslizador** en el menú.
 
 ![Seleccionando 'deslizador' en el menú.](images/variable-slider.png)
 
-**Sugerencia:** En una tableta, toca dos veces la `variable`{:class="block3variables"} en el escenario para cambiar entre las opciones de visualización.
+**Consejo:** En una tableta, toca dos veces la `variable`{:class="block3variables"} en el escenario para cambiar entre las opciones de visualización.
 
 Vuelve a hacer clic derecho en la `variable`{:class="block3variables"} que se muestra en el Escenario y selecciona **cambiar rango del deslizador**.
 
@@ -20,4 +20,4 @@ El rango de valores adecuado para tu variable depende de para qué la estés uti
 
 Arrastra el deslizador a una posición conveniente en el Escenario.
 
-**Sugerencia:** Si estás utilizando una computadora con un teclado, puedes usar las flechas para cambiar el valor en el deslizador en `1`. Primero, haz clic en el deslizador para seleccionarlo, luego usa la flecha <kbd>Izquierda</kbd> para cambiar el valor por `-1` y la flecha <kbd>Derecha</kbd> para cambiar el valor por `1`.
+**Consejo:** Si estás utilizando una computadora con un teclado, puedes usar las flechas para cambiar el valor en el deslizador en `1`. Primero, haz clic en el deslizador para seleccionarlo, luego usa la flecha <kbd>Izquierda</kbd> para cambiar el valor por `-1` y la flecha <kbd>Derecha</kbd> para cambiar el valor por `1`.
