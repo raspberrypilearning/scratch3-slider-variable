@@ -1,23 +1,23 @@
-Right-click on your `variable`{:class="block3variables"} on the Stage.
+Clique com o botão direito na sua `variável`{:class="block3variables"} no Palco.
 
-Select **slider** in the menu.
+Selecione **controle deslizante** no menu.
 
-![Selecting 'slider' in the menu.](images/variable-slider.png)
+![Selecionando 'controle deslizante' no menu.](images/variable-slider.png)
 
-**Tip:** On a tablet, double tap on the `variable`{:class="block3variables"} on the Stage to change between the display options.
+**Dica:** Em um tablet, no palco, toque duas vezes na `variável`{:class="block3variables"} para alternar entre as opções de exibição.
 
-Right-click again on the `variable`{:class="block3variables"} displayed on the Stage and select **change slider range**.
+Clique com o botão direito novamente na `variável`{:class="block3variables"} exibida no Palco e selecione **mudar o intervalo**.
 
-![Selecting 'change slider range' in the menu.](images/slider-range.png)
+![Selecionando 'mudar o intervalo' no menu.](images/slider-range.png)
 
-To set the range, specify a minimum and maximum value.
+Para definir o intervalo, especifique um valor mínimo e máximo.
 
-For example, a minimum of `1` and a maximum of `10` work fairly well for how quickly a sprite spins.
+Por exemplo, um mínimo de `1` e um máximo de `10` funcionam bem para determinar a velocidade com que um ator gira.
 
-![Changing the slider range to 1 to 10.](images/slider-values.png)
+![Alterando o intervalo do controle deslizante para 1 a 10.](images/slider-values.png)
 
-The value range that is right for your variable depends on what you are using it for. Sometimes you will need to experiment a little to get it right, but remember that you can change it at any time.
+O intervalo de valores correto para sua variável depende da finalidade para a qual você a está usando. Às vezes você precisará experimentar um pouco para acertar, mas lembre-se de que você pode alterá-lo a qualquer momento.
 
-Drag the slider to a convenient position on the Stage.
+Arraste o controle deslizante para posição conveniente no Palco.
 
-**Tip:** If you are using a computer with a keyboard, then you can use the arrow keys to change the value of a slider by `1`. First, click on the slider to select it, then use the <kbd>Left</kbd> arrow key to change the value by `-1` and the <kbd>Right</kbd> arrow key to change the value by `1`.
+**Dica:** Se você estiver usando um computador com teclado, poderá usar as teclas de seta para alterar o valor de um controle deslizante em `1`. Primeiro, clique no controle deslizante para selecioná-lo e, em seguida, use a tecla de seta <kbd>Esquerda</kbd> para alterar o valor em `-1` e a tecla de seta <kbd>Direita</kbd> para alterar o valor em `1`.
