@@ -1,23 +1,23 @@
-Right-click on your `variable`{:class="block3variables"} on the Stage.
+ステージ上の `変数`{:class="block3variables"} を右クリックします。
 
-Select **slider** in the menu.
+メニューで **スライダー** を選択します。
 
-![Selecting 'slider' in the menu.](images/variable-slider.png)
+![メニューから「スライダー」を選択します。](images/variable-slider.png)
 
-**Tip:** On a tablet, double tap on the `variable`{:class="block3variables"} on the Stage to change between the display options.
+**助言:** タブレットでは、ステージ上の `変数`{:class="block3variables"} をダブルタップして、表示オプションを切り替えます。
 
-Right-click again on the `variable`{:class="block3variables"} displayed on the Stage and select **change slider range**.
+ステージ上に表示されている `変数`{:class="block3variables"} を再度右クリックし、 **スライダー範囲の変更**を選択します。
 
-![Selecting 'change slider range' in the menu.](images/slider-range.png)
+![メニューの「スライダー範囲の変更」を選択します。](images/slider-range.png)
 
-To set the range, specify a minimum and maximum value.
+範囲を設定するには、最小値と最大値を指定します。
 
-For example, a minimum of `1` and a maximum of `10` work fairly well for how quickly a sprite spins.
+たとえば、スプライトの回転速度については、最小値を `1` 、最大値を `10` にするとうまく機能します。
 
-![Changing the slider range to 1 to 10.](images/slider-values.png)
+![スライダーの範囲を 1 ～ 10 に変更します。](images/slider-values.png)
 
-The value range that is right for your variable depends on what you are using it for. Sometimes you will need to experiment a little to get it right, but remember that you can change it at any time.
+変数の範囲に適切な値は、その変数を何に使用するかによって異なります。 場合によっては、正しく設定するために少し試行錯誤する必要がありますが、いつでも変更できることを覚えておいてください。
 
-Drag the slider to a convenient position on the Stage.
+スライダーをステージ上の使いやすい位置にドラッグします。
 
-**Tip:** If you are using a computer with a keyboard, then you can use the arrow keys to change the value of a slider by `1`. First, click on the slider to select it, then use the <kbd>Left</kbd> arrow key to change the value by `-1` and the <kbd>Right</kbd> arrow key to change the value by `1`.
+**助言:** キーボード付きのコンピューターを使用している場合は、矢印キーを使用してスライダーの値を `1`ずつ変更できます。 まず、スライダーをクリックして選択し、次に <kbd>左</kbd> 矢印キーを使用して値を `-1` ずつ変更し、 <kbd>右</kbd> 矢印キーを使用して値を `1`ずつ変更します。
